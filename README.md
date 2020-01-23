@@ -1,37 +1,18 @@
-# Project 1: Soundscape Narrative
+# WELCOME TO MY VERSION OF THE 2020 SOUNDSSCAPE PROJECT!
 
-Your task in this unit is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you: (1) to learn how to capture sound and edit it using digital tools, and (2) to explore the affordances of sound as a medium, with particular attention to its ability to communicate *immersive environment* and *narrative pacing and change*. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)
+My Current Project 
+## sub header
 
-As you start planning your composition, consider: in what place (physical, virtual, or imaginary) could you anchor your soundscape? What kinds of stories happen there, and which of them could you reasonably tell within a few minutes? How can you represent that environment sonically? What sounds are relatively stable, or sustained, and what is incidental? What structures or sequences could help a listening audience follow?
+### sub sub header thingy
 
-You don't need answers to all of these questions before getting started, but asking them early and returning to them often could help you get a sense of the soundscape you want to make.
-
-## Generative constraints
-
-### Baseline Criteria
-For a minimum grade of B, all projects for this unit must…
-* Play for 2-4 minutes
-* Have three layers (tracks) of sound overlapping at least once in the file
-* Have something change from the beginning to the end of the piece
-* Export a playable ("rendered") .mp3 file
-* Contain at least one sound originally recorded by you
-* Contain at least one sound not recorded by you, but which you have permission (e.g. CC license, fair use, etc) to use
-
-
-### Aspirational Inspirations
-To target (but not guarantee) a grade above a B, the best projects for this unit may…
-_(to be determined together on Thursday, 2020-01-23)_
+### another one
 
 <!--
-Possible additional constraints
-* Use only sound effects (no speech)
-* Use at least one sound longer than 25 seconds and at least one sound shorter than 5 seconds
-* Contain at least 1 minute of original recordings by you or your classmates.
+sample text (to not lose this formatting)
 -->
 
 
-## Deadlines and products
-At each stage, unless otherwise specified, upload (push) your materials to your own copy of this assignment repository. I recommend that you **save often, using meaningful commit messages**; for best results, please keep your filenames clear, lowercase, and space-free (use hyphens or underscores).
+## 
 
 
 | date | what's due | expected files |
